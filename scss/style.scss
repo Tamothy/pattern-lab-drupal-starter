@@ -10,6 +10,8 @@
 // Add more libs with `bower install --save {NAME-OF-LIB}`
 //
 
+@import "main";
+
 // Better style reset, https://github.com/JohnAlbin/normalize-scss
 @import "normalize-scss/sass/normalize";
 // Grid system, https://github.com/at-import/Singularity
