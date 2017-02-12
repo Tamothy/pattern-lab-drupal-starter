@@ -80,6 +80,7 @@ plugins:
           - ../source/_patterns/02-molecules/branding
           - ../source/_patterns/02-molecules/caption-block
           - ../source/_patterns/02-molecules/nav-bar
+          - ../source/_patterns/02-molecules/upper-left-body
           - ../source/_patterns/02-molecules/upper-right-body
       organisms:
         paths:
