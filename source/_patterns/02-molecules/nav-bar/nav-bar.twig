@@ -1,23 +1,23 @@
 <div class="nav-bar">
 
-  <nav id="nav">
-		<ul>
+<nav id="nav">
+  <ul>
 
-      {% for item in items %}
+    {% for item in items %}
 
-        {% include "@atoms/generic-nav-json-button-layout.twig" with {
+      {% include "@atoms/generic-nav-json-button-layout.twig" with {
 
-          navClass: item.navClass,
-          navStyle: item.navStyle,
-          navLink: item.navLink,
-          navText: item.navText
+        navClass: item.navClass,
+        navStyle: item.navStyle,
+        navLink: item.navLink,
+        navText: item.navText
 
-        } %}
+      } %}
 
-      {% endfor %}
+    {% endfor %}
 
-    </ul>
+  </ul>
 
-	</nav>
+</nav>
 
 </div>

@@ -1,0 +1,25 @@
+<div class="top-header">
+
+  <div id="header-wrapper">
+
+  	<header id="header" class="container">
+
+      {% for buttonValue in vertiButton %}
+
+        {% include "@atoms/verti-main-button.twig" with {
+
+          vertiLink: buttonValue.vertiLink,
+          vertiName: buttonValue.vertiName,
+          vertiSpan: buttonValue.vertiSpan
+
+        } %}
+
+      {% endfor %}
+
+      {% include "@molecules/nav-bar.twig" %}
+
+    </header>
+
+  </div>
+
+</div>
