@@ -1,0 +1,8 @@
+{
+
+  "navClass": "opener",
+  "navStyle": "user-select: none; cursor: pointer; white-space: nowrap; opacity: 1;",
+  "navLink": "#",
+  "navText": "Dropdown"
+
+}

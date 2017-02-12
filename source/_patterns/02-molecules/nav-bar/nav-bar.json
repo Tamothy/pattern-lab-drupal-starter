@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "navClass": "current",
+      "navStyle": "white-space: nowrap;",
+      "navlink": "index.html",
+      "navText": "Welcome"
+    },
+    {
+      "navClass": "opener",
+      "navStyle": "user-select: none; cursor: pointer; white-space: nowrap; opacity: 1;",
+      "navlink": "#",
+      "navText": "Dropdown"
+    },
+    {
+      "navClass": "current",
+      "navStyle": "white-space: nowrap;",
+      "navlink": "index.html",
+      "navText": "Welcome"
+    },
+    {
+      "navClass": "current",
+      "navStyle": "white-space: nowrap;",
+      "navlink": "index.html",
+      "navText": "Welcome"
+    }
+  ]
+}
