@@ -1,28 +1,44 @@
 {
   "items": [
     {
+
       "navClass": "current",
       "navStyle": "white-space: nowrap;",
       "navlink": "index.html",
       "navText": "Welcome"
+
     },
     {
+
       "navClass": "opener",
       "navStyle": "user-select: none; cursor: pointer; white-space: nowrap; opacity: 1;",
       "navlink": "#",
       "navText": "Dropdown"
+
     },
     {
-      "navClass": "current",
+
+      "navClass": "NONE",
       "navStyle": "white-space: nowrap;",
-      "navlink": "index.html",
-      "navText": "Welcome"
+      "navLink": "left-sidebar.html",
+      "navText": "Left Sidebar"
+
     },
     {
-      "navClass": "current",
+
+      "navClass": "NONE",
       "navStyle": "white-space: nowrap;",
-      "navlink": "index.html",
-      "navText": "Welcome"
+      "navLink": "right-sidebar.html",
+      "navText": "Right Sidebar"
+
+    },
+    {
+
+      "navClass": "NONE",
+      "navStyle": "white-space: nowrap;",
+      "navLink": "no-sidebar.html",
+      "navText": "No Sidebar"
+      
     }
   ]
 }
