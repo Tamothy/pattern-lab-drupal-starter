@@ -65,9 +65,11 @@ plugins:
           - ../source/_patterns/01-atoms/01-typography/text
           - ../source/_patterns/01-atoms/buttons
           - ../source/_patterns/01-atoms/buttons/dropdown-nav-button
+          - ../source/_patterns/01-atoms/buttons/generic-body-json-button-layout
           - ../source/_patterns/01-atoms/buttons/generic-nav-json-button-layout
           - ../source/_patterns/01-atoms/buttons/left-sidebar-nav-button
           - ../source/_patterns/01-atoms/buttons/no-sidebar-nav-button
+          - ../source/_patterns/01-atoms/buttons/ok-body-button
           - ../source/_patterns/01-atoms/buttons/right-sidebar-nav-button
           - ../source/_patterns/01-atoms/buttons/verti-main-button
           - ../source/_patterns/01-atoms/buttons/welcome-nav-button
@@ -78,6 +80,7 @@ plugins:
           - ../source/_patterns/02-molecules/branding
           - ../source/_patterns/02-molecules/caption-block
           - ../source/_patterns/02-molecules/nav-bar
+          - ../source/_patterns/02-molecules/upper-right-body
       organisms:
         paths:
           - ../source/_patterns/03-organisms

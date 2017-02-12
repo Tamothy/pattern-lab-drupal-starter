@@ -1,0 +1,17 @@
+<div class="5u 12u(medium)">
+
+	<ul>
+
+    {% for item in items %}
+      {% include "@atoms/generic-body-json-button-layout.twig" with {
+
+        bodyButtonLink: item.bodyButtonLink,
+        bodyButtonClass: item.bodyButtonClass,
+        bodyButtonText: item.bodyButtonText
+
+      } %}
+    {% endfor %}
+
+	</ul>
+
+</div>
