@@ -30,6 +30,7 @@ component-libraries:
       - source/_patterns/01-atoms/buttons
       - source/_patterns/01-atoms/buttons/dropdown-nav-button
       - source/_patterns/01-atoms/buttons/left-sidebar-nav-button
+      - source/_patterns/01-atoms/buttons/right-sidebar-nav-button
       - source/_patterns/01-atoms/buttons/verti-main-button
       - source/_patterns/01-atoms/buttons/welcome-nav-button
       - source/_patterns/01-atoms/images
