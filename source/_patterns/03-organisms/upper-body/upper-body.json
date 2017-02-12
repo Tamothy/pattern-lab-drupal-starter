@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "bodyButtonLink": "#",
+      "bodyButtonClass": "button big icon fa-arrow-circle-right",
+      "bodyButtonText": "Ok let's go"
+    },
+    {
+      "bodyButtonLink": "#",
+      "bodyButtonClass": "button alt big icon fa-question-circle",
+      "bodyButtonText": "More info"
+    }
+  ]
+}
