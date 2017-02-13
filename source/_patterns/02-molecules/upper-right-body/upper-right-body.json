@@ -1,5 +1,5 @@
 {
-  "items": [
+  "upperRightButtons": [
     {
       "bodyButtonLink": "#",
       "bodyButtonClass": "button big icon fa-arrow-circle-right",

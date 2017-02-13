@@ -1,0 +1,109 @@
+{
+  "navBarItems": [
+    {
+
+      "navClass": "current",
+      "navStyle": "white-space: nowrap;",
+      "navlink": "index.html",
+      "navText": "Welcome"
+
+    },
+    {
+
+      "navClass": "opener",
+      "navStyle": "user-select: none; cursor: pointer; white-space: nowrap; opacity: 1;",
+      "navlink": "#",
+      "navText": "Dropdown"
+
+    },
+    {
+
+      "navClass": "NONE",
+      "navStyle": "white-space: nowrap;",
+      "navLink": "left-sidebar.html",
+      "navText": "Left Sidebar"
+
+    },
+    {
+
+      "navClass": "NONE",
+      "navStyle": "white-space: nowrap;",
+      "navLink": "right-sidebar.html",
+      "navText": "Right Sidebar"
+
+    },
+    {
+
+      "navClass": "NONE",
+      "navStyle": "white-space: nowrap;",
+      "navLink": "no-sidebar.html",
+      "navText": "No Sidebar"
+
+    }
+  ],
+
+  "vertiButton": [
+      {
+        "vertiLink": "index.html",
+        "vertiName": "Verti",
+        "vertiSpan": "by HTML5 UP"
+      }
+  ],
+
+  "upperRightButtons": [
+    {
+      "bodyButtonLink": "#",
+      "bodyButtonClass": "button big icon fa-arrow-circle-right",
+      "bodyButtonText": "Ok let's go"
+    },
+    {
+      "bodyButtonLink": "#",
+      "bodyButtonClass": "button alt big icon fa-question-circle",
+      "bodyButtonText": "More info"
+    }
+  ],
+
+  "middleBodyItems": [
+    {
+      "imgSrc": "../../../../images/image-assets/pic01.jpg",
+      "headlineTag": "Put something here",
+      "paragraphSubtitle": "Maybe here as well I think",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    },
+    {
+      "imgSrc": "../../../../images/image-assets/pic02.jpg",
+      "headlineTag": "An interesting title",
+      "paragraphSubtitle": "This is also an interesting subtitle",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    },
+    {
+      "imgSrc": "../../../../images/image-assets/pic03.jpg",
+      "headlineTag": "Oh, and finally ...",
+      "paragraphSubtitle": "Here's another intriguing subtitle",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    }
+  ],
+
+  "lowerLeftBodyItems": [
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic04.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic05.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic06.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic07.jpg"
+    }
+  ]
+}
