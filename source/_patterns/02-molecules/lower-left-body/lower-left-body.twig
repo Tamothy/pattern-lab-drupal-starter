@@ -1,0 +1,35 @@
+<div class="4u 12u(medium)">
+
+<!-- Sidebar -->
+	<div id="sidebar">
+		<section class="widget thumbnails">
+			<h3>Interesting stuff</h3>
+			<div class="grid">
+				<div class="row 50%">
+
+          {% for item in items %}
+
+            {% include "@atoms/lower-left-image-body.twig" with {
+
+              link: item.link,
+              class: item.class,
+              imgSrc: item.imgSrc
+
+            } %}
+
+          {% endfor %}
+
+			</div>
+
+	    {% include "@atoms/generic-body-json-button-layout.twig" with {
+
+        "bodyButtonLink": "#",
+        "bodyButtonClass": "button icon fa-file-text-o",
+        "bodyButtonText": "More"
+
+      } %}
+
+		</section>
+	</div>
+
+</div>

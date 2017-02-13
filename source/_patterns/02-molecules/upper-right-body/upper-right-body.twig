@@ -3,13 +3,15 @@
 	<ul>
 
     {% for item in items %}
-      {% include "@atoms/generic-body-json-button-layout.twig" with {
+			<li>
+	      {% include "@atoms/generic-body-json-button-layout.twig" with {
 
-        bodyButtonLink: item.bodyButtonLink,
-        bodyButtonClass: item.bodyButtonClass,
-        bodyButtonText: item.bodyButtonText
+	        bodyButtonLink: item.bodyButtonLink,
+	        bodyButtonClass: item.bodyButtonClass,
+	        bodyButtonText: item.bodyButtonText
 
-      } %}
+	      } %}
+			</li>
     {% endfor %}
 
 	</ul>
