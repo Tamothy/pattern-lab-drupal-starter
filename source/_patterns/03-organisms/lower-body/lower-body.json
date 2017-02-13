@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic04.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic05.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic06.jpg"
+    },
+    {
+      "link": "#",
+      "class": "image fit",
+      "imgSrc": "../../../../images/image-assets/pic07.jpg"
+    }
+  ]
+}
