@@ -74,6 +74,7 @@ plugins:
           - ../source/_patterns/01-atoms/buttons/verti-main-button
           - ../source/_patterns/01-atoms/buttons/welcome-nav-button
           - ../source/_patterns/01-atoms/images
+          - ../source/_patterns/01-atoms/images/lower-left-image-body
       molecules:
         paths:
           - ../source/_patterns/02-molecules
