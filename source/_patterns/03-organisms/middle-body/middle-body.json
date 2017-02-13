@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "imgSrc": "../../../../images/image-assets/pic01.jpg",
+      "headlineTag": "Put something here",
+      "paragraphSubtitle": "Maybe here as well I think",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    },
+    {
+      "imgSrc": "../../../../images/image-assets/pic02.jpg",
+      "headlineTag": "An interesting title",
+      "paragraphSubtitle": "This is also an interesting subtitle",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    },
+    {
+      "imgSrc": "../../../../images/image-assets/pic03.jpg",
+      "headlineTag": "Oh, and finally ...",
+      "paragraphSubtitle": "Here's another intriguing subtitle",
+      "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<div class="middle-body">
+
+</div>
+
+<div id="features-wrapper">
+	<div class="container">
+		<div class="row">
+
+      {% for item in items %}
+
+        {% include "@molecules/middle-left-body.twig" with {
+
+          imgSrc: item.imgSrc,
+          headlineTag: item.headlineTag,
+          paragraphSubtitle: item.paragraphSubtitle,
+          paragraphDescription: item.paragraphDescription
+
+        } %}
+
+      {% endfor %}
+
+
+		</div>
+	</div>
+</div>
