@@ -81,6 +81,7 @@ plugins:
           - ../source/_patterns/02-molecules/branding
           - ../source/_patterns/02-molecules/caption-block
           - ../source/_patterns/02-molecules/lower-left-body
+          - ../source/_patterns/02-molecules/lower-right-body
           - ../source/_patterns/02-molecules/middle-left-body
           - ../source/_patterns/02-molecules/nav-bar
           - ../source/_patterns/02-molecules/upper-left-body
