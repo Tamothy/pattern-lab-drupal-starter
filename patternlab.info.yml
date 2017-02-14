@@ -42,6 +42,9 @@ component-libraries:
   molecules:
     paths:
       - source/_patterns/02-molecules
+      - source/_patterns/02-molecules/bottom-copyright
+      - source/_patterns/02-molecules/bottom-left-footer
+      - source/_patterns/02-molecules/bottom-right-footer
       - source/_patterns/02-molecules/branding
       - source/_patterns/02-molecules/caption-block
       - source/_patterns/02-molecules/lower-left-body
@@ -53,6 +56,7 @@ component-libraries:
   organisms:
     paths:
       - source/_patterns/03-organisms
+      - source/_patterns/03-organisms/bottom-footer
       - source/_patterns/03-organisms/grids/caption-grid-block
       - source/_patterns/03-organisms/lower-body
       - source/_patterns/03-organisms/middle-body
