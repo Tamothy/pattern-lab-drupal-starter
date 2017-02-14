@@ -1,19 +1,15 @@
-<div class="5u 12u(medium)">
+<ul>
 
-	<ul>
+  {% for item in upperRightButtonItems %}
+		<li>
+      {% include "@atoms/generic-body-json-button-layout.twig" with {
 
-    {% for item in upperRightButtonItems %}
-			<li>
-	      {% include "@atoms/generic-body-json-button-layout.twig" with {
+        bodyButtonLink: item.bodyButtonLink,
+        bodyButtonClass: item.bodyButtonClass,
+        bodyButtonText: item.bodyButtonText
 
-	        bodyButtonLink: item.bodyButtonLink,
-	        bodyButtonClass: item.bodyButtonClass,
-	        bodyButtonText: item.bodyButtonText
+      } %}
+		</li>
+  {% endfor %}
 
-	      } %}
-			</li>
-    {% endfor %}
-
-	</ul>
-
-</div>
+</ul>

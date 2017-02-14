@@ -1,11 +1,4 @@
 {
-  "paragraphTextItems": [
-    {
-    "paragraphTextTitle": "Hi. This is Verti.",
-    "paragraphTextDescription": "It's a free responsive site template by HTML5 UP"
-    }
-  ],
-
   "navBarItems": [
     {
 
@@ -52,8 +45,8 @@
   "vertiButton": [
       {
         "vertiLink": "index.html",
-        "vertiName": "Verti",
-        "vertiSpan": "by HTML5 UP"
+        "vertiName": "Futura",
+        "vertiSpan": "by Wes Anderson"
       }
   ],
 
@@ -61,30 +54,30 @@
     {
       "bodyButtonLink": "#",
       "bodyButtonClass": "button big icon fa-arrow-circle-right",
-      "bodyButtonText": "Ok let's go"
+      "bodyButtonText": "Yes"
     },
     {
       "bodyButtonLink": "#",
       "bodyButtonClass": "button alt big icon fa-question-circle",
-      "bodyButtonText": "More info"
+      "bodyButtonText": "No"
     }
   ],
 
   "middleBodyItems": [
     {
-      "imgSrc": "../../../../images/image-assets/pic01.jpg",
+      "imgSrc": "../../../../images/wes-anderson/bill.jpg",
       "headlineTag": "Put something here",
       "paragraphSubtitle": "Maybe here as well I think",
       "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
     },
     {
-      "imgSrc": "../../../../images/image-assets/pic02.jpg",
+      "imgSrc": "../../../../images/wes-anderson/hotel.jpg",
       "headlineTag": "An interesting title",
       "paragraphSubtitle": "This is also an interesting subtitle",
       "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
     },
     {
-      "imgSrc": "../../../../images/image-assets/pic03.jpg",
+      "imgSrc": "../../../../images/wes-anderson/yellow.jpg",
       "headlineTag": "Oh, and finally ...",
       "paragraphSubtitle": "Here's another intriguing subtitle",
       "paragraphDescription": "Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla."
