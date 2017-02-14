@@ -52,7 +52,7 @@ component-libraries:
       - source/_patterns/02-molecules/middle-left-body
       - source/_patterns/02-molecules/nav-bar
       - source/_patterns/02-molecules/paragraph-text
-      - source/_patterns/02-molecules/upper-right-body
+      - source/_patterns/02-molecules/two-buttons
   organisms:
     paths:
       - source/_patterns/03-organisms
