@@ -50,7 +50,7 @@
       }
   ],
 
-  "upperRightButtons": [
+  "upperRightButtonItems": [
     {
       "bodyButtonLink": "#",
       "bodyButtonClass": "button big icon fa-arrow-circle-right",
