@@ -3,15 +3,16 @@
 //
 @import "00-config";
 
+// Verti assets
+@import "main";
+@import "font-awesome.min";
+
 //
 // Start libs
 // All found at the include paths declared in `gulpconfig.js` under `css.includePaths`.
 // Usually it's `['./bower_components', './node_modules']`
 // Add more libs with `bower install --save {NAME-OF-LIB}`
 //
-
-@import "main";
-@import "font-awesome.min";
 
 // Better style reset, https://github.com/JohnAlbin/normalize-scss
 @import "normalize-scss/sass/normalize";
